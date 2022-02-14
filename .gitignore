@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+dramacode_checkpoints/model_classic.pt
+dramacode_checkpoints/model_classic_random_batchs.pt
+dramacode_checkpoints/model_wordphon_attent.pt
+dramacode_checkpoints/model_embedphon_concat.pt
+dramacode_checkpoints/model_wordphon_concat.pt
