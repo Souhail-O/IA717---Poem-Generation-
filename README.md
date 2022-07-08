@@ -1,5 +1,7 @@
-# IA717---Poem-Generation-
-IA717 - NLP Course @ Télécom Paris - Poem Generation with Neural Networks
+# Poem Generation with Neural Networks (LSTM & RNN)
+
+## Télécom Paris - Post Masters' Degree - Artificial Intelligence (2021-2022)
+### Natural Language Processing Course (IA717) 
 
 Link for Downloading the Pretrained Model : 
 https://we.tl/t-NLAsVd9Lun
